@@ -29,4 +29,14 @@
     Anywhere two or more parts of the Internet intersect there is a piece of equipment called <b>a router</b>. Routers
     direct your packets around the Internet helping each packet get one step closer to it's distenation. <br>
     and that's what is the internet. So let's move to the next section. <br>
+
 </p>
+<hr>
+<h3>URL Gets Resolved:</h3>
+<p>
+    To get the website code from the severs you enter <b>"Example.com"</b> and it's called <b>"domain"</b>. <br>
+    So to clarify it your browser sends a request to the server with IP address by using the domain. <br>
+    To translate domain to ip address there it typer of servers called <b>DNS server</b>. <br>
+    Now let's have a look at the next section.   
+</p>
+<br> <hr>
