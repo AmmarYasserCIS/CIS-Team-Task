@@ -6,7 +6,6 @@
         <li>URL Gets Resolved</li>
         <li>Request Is Sent</li>
         <li>Response Is Parsed</li>
-        <li></li>
     </ul>
 </h4>
 <hr>
