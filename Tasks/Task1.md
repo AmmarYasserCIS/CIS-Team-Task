@@ -62,5 +62,5 @@
 
 </p>
 <hr>
-<p>to summarize,The internet is a wire that contains addresses called ip addresses connected with computer that send and
+<p>to summarize,The internet is a wire that contains addresses called ip addresses connected with computers that send and
     recive web pages that built by html and css.</p>
