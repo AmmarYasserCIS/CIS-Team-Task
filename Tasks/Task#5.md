@@ -1,6 +1,6 @@
 <h2>
-  function matchHouses(n) { <br>
-  return n === 0 ? 0 : n * 4 + (n + 1);<br>
+  function matchHouses(step) { <br>
+  return step === 0 ? 0 : step * 4 + (step + 1);<br>
 }<br>
 alert( matchHouses(1)  );<br>
 alert( matchHouses(4)  );<br>
