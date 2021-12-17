@@ -7,7 +7,4 @@ function addUp(n) { <br>
   return sum;<br>
 }<br>
 
-alert( addUp(4));<br>
-alert( addUp(13)  );<br>
-alert( addUp(600) );<br>
 </h2>
